@@ -14,10 +14,8 @@
 | **11**  | **[Array](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
 | **12**  | **[Strings And Its Manipulation](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
 | **13**  | **[Pointer And Dynamic Memory Allocation](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-
 | **14**  | **[Structure, Union, Typedef, Enum](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
 | **15**  | **[Console Input Outputs](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-
 | **16**  | **[The Preprocessors](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
 | **17**  | **[File Handling](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
 | **18**  | **[Advance C](https://github.com/federico-busato/Modern-CPP-Programming/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
