@@ -32,10 +32,10 @@
 
 | 📂 Folders     | Description | Route |
 | :------------- | :---------- | :---------- |
-| `Chapters📚`|  The folder📂 to contain the `Chapters` | [View More](https://) |
-| `Source Files📓`   |  The folder📂 to contain the `Source Files` | [View More](https://) |
-| `Projects💻`  |  The folder📂 to contain the `Projects` | [View More](https://) |
-| `Questions-Answers🚨`|  The folder📂 to contain the `Questions-Answers` | [View More](https://) |
+| `Chapters📚`|  The folder📂 to contain the `Chapters` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Chapters) |
+| `Source Files📓`   |  The folder📂 to contain the `Source Files` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Source%20Files) |
+| `Projects💻`  |  The folder📂 to contain the `Projects` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Projects(Work%20Book)) |
+| `Questions-Answers🚨`|  The folder📂 to contain the `Questions-Answers` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Questions-Answers) |
 
 * (*) - It is a root of project.
 ## Chapters📚
