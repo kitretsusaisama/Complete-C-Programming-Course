@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.cprogramming.com/">
-    <img src="https://www.goodworklabs.com/wp-content/uploads/2018/12/C-programming.png" height="200">
+    <img src="https://www.goodworklabs.com/wp-content/uploads/2018/12/C-programming.png" height="auto">
   </a>
   <h1 align="center">Complete C Programming Course</h1>
   <p align="center">
