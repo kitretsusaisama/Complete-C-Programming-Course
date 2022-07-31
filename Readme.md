@@ -32,33 +32,32 @@
 
 | 📂 Folders     | Description | Route |
 | :------------- | :---------- | :---------- |
-| `Chapters📚`|  The folder📂 to contain the `Chapters` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Chapters) |
-| `Source Files📓`   |  The folder📂 to contain the `Source Files` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Source%20Files) |
-| `Projects💻`  |  The folder📂 to contain the `Projects` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Projects(Work%20Book)) |
+| `Books📚`|  The folder📂 to contain the `Books` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Books) |
+| `Lectures📚`|  The folder📂 to contain the `Units` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Lectures) |
+| `Program Files📓`   |  The folder📂 to contain the `Source Files` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Source%20Files) |
+| `Projects💻`  |  The folder📂 to contain the `Projects` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Projects) |
 | `Questions-Answers🚨`|  The folder📂 to contain the `Questions-Answers` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Questions-Answers) |
 
-* (*) - It is a root of project.
+
 ## Chapters📚
 |        | TITLE                                                                                                                                                                                | MAIN FOCUS                                                                                |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
-| **01**  | **[Introduction Of C Langauge](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | History of C, Areas of Applications, Course introduction                              |
-| **02**  | **[C Enviroment Setup](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **03**  | **[Structure Of a C Program](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **04**  | **[Data Types and Variables](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **05**  | **[Literal Or Constant](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **06**  | **[Storage Classes In C](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **07**  | **[Operators In C](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **08**  | **[Decision And Control Struture](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **09**  | **[Looping And Control Statement](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **10**  | **[User Defined Function And Recrusion](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **11**  | **[Array](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **12**  | **[Strings And Its Manipulation](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **13**  | **[Pointer And Dynamic Memory Allocation](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **14**  | **[Structure, Union, Typedef, Enum](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **15**  | **[Console Input Outputs](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **16**  | **[The Preprocessors](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **17**  | **[File Handling](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
-| **18**  | **[Advance C](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **01**  | **[Fundamental (I)](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Introduction of c, C enviroment setup                              |
+| **02**  | **[Fundamental (II)](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Structure of c program, Datatype & Variable                             |
+| **03**  | **[Console I/O](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **04**  | **[Literal Or Constant](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **05**  | **[Operators In C](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **06**  | **[Decision And Control Struture](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **07**  | **[Looping And Control Statement](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **08**  | **[Storage class in C](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **09**  | **[Array](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **10**  | **[Strings And Its Manipulation](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **11**  | **[Structure, Union, Typedef, Enum](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Structure ,-Nested Structure, Union, Typedef, Enum                             |
+| **12**  | **[User Defined Function And Recrusion](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **13**  | **[The Preprocessors](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **14**  | **[Pointer](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **15**  | **[File Handling](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
+| **16**  | **[Advance C](https://github.com/#/#/blob/master/01.Introduction.pdf)**                                                                        | Updation Inprogress                             |
 
 ## List of Programs📓
 
