@@ -40,7 +40,7 @@
 
 ## Chapters📚
 |  No.    | TITLE | MAIN FOCUS     |
-| ------  | ------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| :------  | :-------- | :------------------------------------- |
 | **01**  | **[Fundamental (I)](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Lectures/Unit%2001%20-%20Fundamental%20(I))**                                                                        | Introduction of C, C enviroment setup                              |
 | **02**  | **[Fundamental (II)](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Lectures/Unit%2002%20-%20Fundamental%20(II))**                                                                        | Structure of c program, Datatype & Variable                             |
 | **03**  | **[Console I/O](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Lectures/Unit%2003%20-%20Console%20IO)**                                                                        | Console Input Output                             |
