@@ -1,41 +1,74 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-   <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width,initial-scale=1.0">
-      <style>
-     [style*="--aspect-ratio"] > :first-child {
-  width: 100%;
-}
-[style*="--aspect-ratio"] > img {  
-  height: auto;
-} 
-@supports (--custom:property) {
-  [style*="--aspect-ratio"] {
-    position: relative;
-  }
-  [style*="--aspect-ratio"]::before {
-    content: "";
-    display: block;
-    padding-bottom: calc(100% / (var(--aspect-ratio)));
-  }  
-  [style*="--aspect-ratio"] > :first-child {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-  }  
-}</style>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <!-- TODO: change this -->
+    <title>Support - Happy Apps Co.</title>
+
+    <!-- TODO: change this -->
+    <meta name="description" content="Happy Apps Co. Support">
+
+    <meta name="viewport" content="minimum-scale=1, maximum-scale=1, width=device-width">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <style type="text/css">
+       html, body {
+         width: 100%;
+         height: 100%;
+         margin: 0;
+         overflow: auto;
+      }
+      .support-wrapper {
+          overflow-y: scroll;
+          -webkit-overflow-scrolling: touch;
+      }
+    </style>
+
+    <!-- TODO: point this to your favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/path/to/your/favicon" />
+
    </head>
    <body>
-      <div style="--aspect-ratio: 16/9;">
-  <iframe 
-    src="https://kitretsusaisama.github.io/Complete-C-Programming-Course/batch.html"
-    width="auto"
-    height="auto"
-    frameborder="0"
-  >
-  </iframe>
-</div>
+
+       <!-- TODO: change the iframe's src to your Helpshift domain -->
+       <div class="support-wrapper">
+           <iframe id="support-frame" src="https://kitretsusaisama.github.io/Complete-C-Programming-Course/batch.html" frameborder="0" width="100%" height="100%" seamless ></iframe>
+       </div>
+<script>
+var _HS = {
+
+    url: "kitretsusaisama.github.io",
+    // TODO: change this to your helpshift domain,
+    //       e.g. "happyapps.helpshift.com"
+
+    heightPadding: 150,
+    // TODO: you will need to change this depending on your
+    //       support-wrapper's width
+
+    scrollTop: 0,
+    // TODO: Change this to adjust the extent to which you want to
+    //       scroll up on change of content. 0 is for topmost.
+};
+
+(function (w) {
+  w.addEventListener ("message", function (event) {
+    if (event.origin.indexOf (_HS.url) !== -1) {
+      var msg = event.data.match (/^(?:HS:)(.*)/);
+      if (msg) {
+        var data = JSON.parse (msg [1]);
+        if (data.type === "height-change") {
+          document.getElementById( "support-wrapper" ).style.height =
+              (data.data.ht + _HS.heightPadding).toString() + "px";
+          w.document.body.scrollTop = _HS.scrollTop;
+        }
+      }
+    }
+  });
+} (window));
+</script>
    </body>
 </html>
+  
