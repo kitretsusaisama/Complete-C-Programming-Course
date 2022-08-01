@@ -27,16 +27,6 @@
 <p>C language programming approach for beginners and professionals, helps you to understand the C language program easily. Our C tutorial explains each topic with programs.Here, We provide all C Program Questions Solutions, Class Lessons, Workbook Projects and Advnavce C files with lifetime access.explore different kind of programs, mini projects else make your own using these ideas.</p>
 </div>
 
-## Structure🧩
-
-| 📂 Folders     | Description | Route |
-| :------------- | :---------- | :---------- |
-| `Books📚`|  The folder📂 to contain the `Books` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Books) |
-| `Lectures📚`|  The folder📂 to contain the `Units` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Lectures) |
-| `Program Files📓`   |  The folder📂 to contain the `Source Files` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Source%20Files) |
-| `Projects💻`  |  The folder📂 to contain the `Projects` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Projects) |
-| `Questions-Answers🚨`|  The folder📂 to contain the `Questions-Answers` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Questions-Answers) |
-
 
 ## Chapters📚
 |  No.    | TITLE | MAIN FOCUS     |
@@ -59,6 +49,16 @@
 ## List of Programs📓
 
 - [Hello World!](https://github.com/#/beginners-C-program-examples/blob/master/HelloWorld.c)
+
+## Structure🧩
+
+| 📂 Folders     | Description | Route |
+| :------------- | :---------- | :---------- |
+| `Books📚`|  The folder📂 to contain the `Books` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Books) |
+| `Lectures📚`|  The folder📂 to contain the `Units` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Lectures) |
+| `Program Files📓`   |  The folder📂 to contain the `Source Files` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Source%20Files) |
+| `Projects💻`  |  The folder📂 to contain the `Projects` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Projects) |
+| `Questions-Answers🚨`|  The folder📂 to contain the `Questions-Answers` | [View More](https://github.com/kitretsusaisama/Complete-C-Programming-Course/tree/main/Questions-Answers) |
 
 ## Additional Resources🧾 
 - [C Programming Language Tutorial - Javatpoint.com](https://www.javatpoint.com/c-programming-language-tutorial)
