@@ -1,8 +1,3 @@
----
-title: Blogging Like a Boss
-author: me
----
-
 <p align="center">
   <a href="https://www.cprogramming.com/">
     <img src="https://www.goodworklabs.com/wp-content/uploads/2018/12/C-programming.png" height="170" alt="Complete C Programming Course">
