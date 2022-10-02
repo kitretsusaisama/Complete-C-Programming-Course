@@ -20,7 +20,6 @@
 <!-- <img src="http://hits.dwyl.com/kitretsusaisama/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <img alt="Open VSX Rating (Stars)" src="https://img.shields.io/open-vsx/stars/redhat/java">
-<a href="https://twitter.com/victor_amit" ><img src="https://img.shields.io/twitter/follow/victor_amit.svg?style=social" /> </a>
 <br>
 
 <h2>Overview#️⃣</h2>
